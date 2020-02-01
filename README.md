@@ -1,3 +1,11 @@
-# pure-publisher
-Pure Publisher is tool meant to help pure code oriented web developpers publish and upgrade a website or web application through SSH protocol.
+# PortHole
+PortHole is a remote tool for webmasters to publish and upgrade multiple kind of hosted website or web application.
+
+PortHole work through SSH protocol.
+
+## Hosting Types
+### Shared Hosting
+Publish by copying through rsync.
+### Virtual Private Server (VPS)
+Multiple options available.
 
