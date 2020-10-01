@@ -1,0 +1,2521 @@
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t[object Object]","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t[object Object]","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked accordion; ","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; [object Attr]","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; [object Attr]","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1 team chat.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2 cloud ds.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2 cloud ds.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2 cloud ds.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2 cloud ds.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2 cloud ds.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; all","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing all sites","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; all","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing all sites","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; all","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing all sites","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; all","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing all sites","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns2.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns2> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"clicked host; ns1.cld.technology","level":"\u001b[32minfo\u001b[39m"}
+{"message":"showing site with hostname <ns1> on domain <cld.technology>","level":"\u001b[32minfo\u001b[39m"}
+{"message":"opening rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"export rpc.call","level":"\u001b[32minfo\u001b[39m"}
+{"message":"closing rpc.js..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load main.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create engine.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Create window.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Load frame.html.","level":"\u001b[32minfo\u001b[39m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"BASE_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"PROJECT_ROOT: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/settings"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"LOGS_DIR: /storage/files/Pro/Developement/Software/Apps/Publisher/electron_flask/logs/"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"\u001b[32m__main__\t\t\tInit..\u001b[0m"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Serving Flask app \"engine\" (lazy loading)"}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Environment: production"}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   WARNING: Do not use the development server in a production environment."}
+{"level":"\u001b[35mbackend\u001b[39m","message":"   Use a production WSGI server instead."}
+{"level":"\u001b[35mbackend\u001b[39m","message":" * Debug mode: on"}
+{"message":"Opening app.js.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Initialization..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_hosts..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t2 host found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Host list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Loading sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait load_sites..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\t1 site found.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Site list loaded.","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Set events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"\tawait set_events..","level":"\u001b[32minfo\u001b[39m"}
+{"message":"Events set.","level":"\u001b[32minfo\u001b[39m"}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Publisher</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/add_folder.css"/>
+    <link rel="stylesheet" type="text/css" href="css/lib/material-icons.css"/>
+    <!-- JS -->
+    <script src="js/lib/ui-framework.js"></script>
+    <script src="js/lib/jquery-3.3.1.min.js"></script>
+    <script src="js/add_folder.js"></script>
+  </head>
+  <body>
+    <div class="controls">
+      <button>Cancel</button>
+      <button class="save">Save</button>
+    </div>
+    <form id="add_form">
+      <card-list>
+
+        <ui-card>
+          <div slot="header">
+            <label>Site</label>
+          </div>
+          <div slot="content">
+            <label for="name">Verbose Name</label>
+            <container>
+              <input type="name" name="name" placeholder="My site"></input>
+            </container>
+            <label for="name">Identifier</label>
+            <container>
+              <input type="name" name="identifier" placeholder="my_site" required></input>
+            </container>
+          </div>
+        </ui-card>
+
+        <ui-card>
+          <div slot="header">
+            <label>Server</label>
+          </div>
+          <div slot="content">
+            <container>
+              <label for="host">Host</label><label for="port">Port</label>
+            </container>
+            <container>
+              <input type="text" name="host" placeholder="*" pattern='[^ :]' title="Host domain or IP address." required></input>
+              <input type="text" name="port" placeholder="22" pattern='\d{1,5}' title="Port" required></input>
+            </container>
+            <label for="password">Username</label>
+            <container>
+              <input type="username" name="username" placeholder=""></input>
+            </container>
+            <label for="password">Password</label>
+            <container>
+              <input type="password" name="password" placeholder=""></input>
+            </container>
+            <container>
+              <label>Administration panel port</label>
+              <input type="text" name="remote_port" placeholder="10000" pattern='\d{1,5}' title="Port" required></input>
+            </container>
+          </div>
+        </ui-card>
+
+        <ui-card>
+          <div slot="header">
+            <label>Folders</label>
+          </div>
+          <div slot="content">
+            <label>Output folder</label>
+            <container>
+              <!-- text field -->
+              <input type="text" id="output_folder_text" name="output_folder" placeholder="*" title="Folder to be uploaded." required></input>
+              <!-- file input -->
+              <input type="file" id="output_folder_input" directory webkitdirectory mozdirectory msdirectory/>
+              <!-- select button -->
+              <button class="select_folder" id="output_folder_select"><i class="material-icons">folder</i></button>
+            </container>
+            <label>Backup folder</label>
+            <container>
+              <!-- text field -->
+              <input type="text" id="backup_folder_text" name="backup_folder" placeholder="" title="Folder for retrieved backup."></input>
+              <!-- file input -->
+              <input type="file" id="backup_folder_input" directory webkitdirectory mozdirectory msdirectory/>
+              <!-- select button -->
+              <button class="select_folder" id="backup_folder_select"><i class="material-icons">folder</i></button>
+            </container>
+          </div>
+        </ui-card>
+
+      </card-list>
+    </form>
+  </body>
+</html>

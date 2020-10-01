@@ -1,0 +1,13 @@
+time,package,object,details
+06:50:31.185598,__main__,	,Init..
+06:50:31.420502,__main__,	,Init..
+06:50:32.750348,__main__,	,Load hosts..
+06:50:32.751113,__main__,	,Found 2 host files.
+06:50:32.832148,__main__,	,Load sites..
+06:50:32.832624,__main__,	,Found 1 site files.
+21:54:21.414797,__main__,	,Init..
+21:54:21.599865,__main__,	,Init..
+21:54:22.719189,__main__,	,Load hosts..
+21:54:22.720117,__main__,	,Found 2 host files.
+21:54:22.854601,__main__,	,Load sites..
+21:54:22.855233,__main__,	,Found 1 site files.

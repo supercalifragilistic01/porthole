@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>PortHole</title>
+    <link rel="shortcut icon" type="image/png" href={{ url_for('static', filename='rsc/favicon.svg') }}/>
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; connect-src *">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', filename='css/_theme.css') }}/>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', filename='css/frame.css') }}/>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', filename='css/lib/material-icons.css') }}/>
+    <!-- JS -->
+    <script src={{ url_for('static', filename='js/lib/randexp.min.js') }}></script>
+    <script src={{ url_for('static', filename='js/lib/sha3.min.js') }}></script>
+    <script src={{ url_for('static', filename='js/lib/stackapi.js') }}></script>
+    <script src={{ url_for('static', filename='js/lib/jquery-3.5.1.min.js') }}></script>
+  </head>
+  <body>
+    <div id="header">
+      <h1>PortHole</h1>
+    </div>
+    <div id="content">
+      <div id="host_list">
+        <div class="host" domain="*" hostname="*">
+          <div class="site-tab all">
+            <label>All Hosts</label>
+          </div>
+        </div>
+      </div>
+      <div id="host_toolbar">
+        <button title="Add a new host."><i class="material-icons">add</i></button>
+        <button title="Open control panel."><i class="material-icons">open_in_browser</i></button>
+        <button title="Open a new terminal."><i class="material-icons">code</i></button>
+      </div>
+      <div id="site_list">
+
+      </div>
+    </div>
+  </body>
+  <script src={{ url_for('static', filename='js/frame.js') }}></script>
+</html>
