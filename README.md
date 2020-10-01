@@ -8,4 +8,4 @@ PortHole work through SSH protocol.
 Publish by copying through rsync.
 ### Virtual Private Server (VPS)
 Multiple options available.
-
+## And user friendly.
