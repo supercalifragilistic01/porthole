@@ -1,0 +1,83 @@
+time,package,object,details
+07:19:29.606096,__main__,	,Init..
+07:19:44.463790,__main__,	,Init..
+07:19:44.463946,__main__,	,LOAD ENGINE..
+07:20:11.335657,__main__,	,Init..
+07:20:11.335803,__main__,	,LOAD ENGINE..
+07:21:10.631030,__main__,	,Init..
+07:21:10.631181,__main__,	,LOAD ENGINE..
+07:21:21.003283,__main__,	,Init..
+07:21:21.003459,__main__,	,LOAD ENGINE..
+07:22:26.010020,__main__,	,Init..
+07:22:26.010157,__main__,	,LOAD ENGINE..
+07:27:32.879122,__main__,	,Init..
+07:27:32.879270,__main__,	,LOAD ENGINE..
+07:28:07.811572,__main__,	,Init..
+07:28:07.811739,__main__,	,LOAD ENGINE..
+14:21:48.923055,__main__,	,Init..
+14:21:49.019516,__main__,	,LOAD ENGINE..
+14:23:13.515786,__main__,	,Init..
+14:23:13.515946,__main__,	,LOAD ENGINE..
+14:28:12.393917,__main__,	,Init..
+14:28:12.394067,__main__,	,LOAD ENGINE..
+14:39:30.523368,__main__,	,Init..
+14:39:30.523523,__main__,	,LOAD ENGINE..
+14:39:30.721265,engine,	,Init..
+14:39:30.726879,__main__,	,RUN ENGINE..
+16:37:53.169176,__main__,	,Init..
+16:37:53.169323,__main__,	,LOAD ENGINE..
+16:37:53.260700,engine,	,Init..
+16:37:53.260905,__main__,	,BUILD ENGINE..
+16:39:13.206535,__main__,	,Init..
+16:39:13.206714,__main__,	,LOAD ENGINE..
+16:39:13.291891,engine,	,Init..
+16:39:13.292103,__main__,	,BUILD ENGINE..
+16:45:27.625107,__main__,	,Init..
+16:45:27.625256,__main__,	,LOAD ENGINE..
+16:45:27.709990,engine,	,Init..
+16:45:27.710187,__main__,	,BUILD ENGINE..
+16:45:48.533010,__main__,	,Init..
+16:45:48.533161,__main__,	,LOAD ENGINE..
+16:45:48.620463,engine,	,Init..
+16:45:48.620711,__main__,	,BUILD ENGINE..
+16:45:48.625263,__main__,	,RUN ENGINE..
+16:46:25.494476,__main__,	,Init..
+16:46:25.494611,__main__,	,LOAD ENGINE..
+16:46:25.578096,engine,	,Init..
+16:46:25.578305,__main__,	,BUILD ENGINE..
+16:46:25.582788,__main__,	,RUN ENGINE..
+16:50:33.863422,__main__,	,Init..
+16:50:33.863800,__main__,	,LOAD ENGINE..
+16:50:33.950331,engine,	,Init..
+16:50:33.950539,__main__,	,BUILD ENGINE..
+16:50:33.955018,__main__,	,RUN ENGINE..
+16:50:55.578144,__main__,	,Init..
+16:50:55.578511,__main__,	,LOAD ENGINE..
+16:50:55.664254,engine,	,Init..
+16:50:55.664449,__main__,	,BUILD ENGINE..
+16:50:55.668547,__main__,	,RUN ENGINE..
+16:50:58.164927,__main__,	,LOAD GUI..
+17:00:12.560329,__main__,	,Init..
+17:00:25.030566,__main__,	,Init..
+17:00:40.711729,__main__,	,Init..
+17:00:40.729789,__main__,OUT: ,b''
+17:00:40.730365,__main__,	,LOAD GUI..
+17:06:10.555451,__main__,	,Init..
+17:07:13.065300,__main__,	,Init..
+17:07:25.226713,__main__,	,Init..
+17:07:25.229017,__main__,	,LOAD GUI..
+17:08:14.160744,__main__,	,Init..
+17:08:14.178606,__main__,	,LOAD GUI..
+17:08:36.642632,__main__,	,Init..
+17:08:36.645625,__main__,stdout: ,b'cefpython\nelectron\nelectron_flask\nneutralinojs-v1.5.0\nneutralinojs-v1.5.0.zip\nporthole_0.0.0.backup.tar.gz\nporthole_0.0.1.backup.tar.gz\npywebview\nScreenshot from 2019-07-25 21-02-09.png.jpg\nsecret.txt\nvenv\n'
+17:08:36.646061,__main__,	,LOAD GUI..
+21:16:37.400122,__main__,	,Init..
+21:16:53.012599,__main__,	,Init..
+22:25:39.845741,__main__,	,Init..
+22:26:04.996436,__main__,	,Init..
+22:30:21.925111,__main__,	,Init..
+22:31:08.856057,__main__,	,Init..
+22:34:01.176177,__main__,	,Init..
+22:34:08.192952,__main__,	,Init..
+22:34:21.080092,__main__,	,Init..
+22:34:33.803704,__main__,	,Init..

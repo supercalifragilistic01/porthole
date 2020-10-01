@@ -1,0 +1,94 @@
+container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 2px 2px 2px; }
+.vertical {
+    flex-direction: column; }
+.container.vertical * {
+    flex-grow: 0; }
+
+line {
+    width: calc(100% - 12px);
+    margin: 6px;
+    height: 0;
+    border-bottom: solid 2px var(--accent0); }
+
+
+:root {
+
+  /* COLORS */
+  --dark: black;
+  --clear_dark: rgba(0, 0, 0, .8);
+  --super_clear_dark: rgba(0, 0, 0, .6);
+  --semi_ghost_dark: rgba(0, 0, 0, .4);
+  --ghost_dark: rgba(0, 0, 0, .4);
+  --light: rgba(240, 240, 240, 1);
+
+  --neutral0: rgba(28, 32, 34, 1);
+  --clear_neutral0: rgba(28, 32, 34, 0.8);
+  --super_clear_neutral0: rgba(28, 32, 34, 0.6);
+  --semi_ghost_neutral0: rgba(28, 32, 34, 0.4);
+  --ghost_neutral0: rgba(28, 32, 34, 0.2);
+
+  --neutral1: rgba(120, 130, 140,1);
+  --clear_neutral1: rgba(120, 130, 140, 0.8);
+  --super_clear_neutral1: rgba(120, 130, 140, 0.6);
+  --semi_ghost_neutral1: rgba(120, 130, 140, 0.4);
+  --ghost_neutral1: rgba(120, 130, 140, 0.2);
+
+  --neutral2: #282828;
+  --clear_neutral2: rgba(40, 40, 40, 0.8);
+  --super_clear_neutral2: rgba(40, 40, 40, 0.6);
+  --semi_ghost_neutral2: rgba(40, 40, 40, 0.4);
+  --ghost_neutral2: rgba(40, 40, 40, 0.2);
+
+  --neutral3: #50505C;
+  --clear_neutral3: rgba(80, 80, 92, 0.8);
+  --super_clear_neutral3: rgba(80, 80, 92, 0.6);
+  --semi_ghost_neutral3: rgba(80, 80, 92, 0.4);
+  --ghost_neutral3: rgba(80, 80, 92, 0.2);
+
+  --neutral4: #c0c0c0;
+  --clear_neutral4: rgba(192, 192, 192, 0.8);
+  --super_clear_neutral4: rgba(192, 192, 192, 0.6);
+  --semi_ghost_neutral4: rgba(192, 192, 192, 0.4);
+  --ghost_neutral4: rgba(192, 192, 192, 0.2);
+
+  /* ACCENT COLORS */
+  --accent0: #1464C8;
+  --clear_accent0: rgba(20, 100, 200, 0.8);
+  --super_clear_accent0: rgba(20, 100, 200, 0.6);
+  --semi_ghost_accent0: rgba(20, 100, 200, 0.4);
+  --ghost_accent0: rgba(20, 100, 200, 0.2);
+
+  --accent1: #0f78b4;
+  --clear_accent1: rgba(15, 120, 180, 0.8);
+  --super_clear_accent1: rgba(15, 120, 180, 0.6);
+  --semi_ghost_accent1: rgba(15, 120, 180, 0.4);
+  --ghost_accent1: rgba(15, 120, 180, 0.2);
+
+  --accent2: #00a6fb;
+  --clear_accent2: rgba(0, 166, 251, 0.8);
+  --super_clear_accent2: rgba(0, 166, 251, 0.6);
+  --semi_ghost_accent2: rgba(0, 166, 251, 0.4);
+  --ghost_accent2: rgba(0, 166, 251, 0.2);
+
+  /* MARGIN */
+  --margin: 12px;
+  --inner_margin: 12px;
+  --inner_half_margin: 6px;
+
+  /* PADDING */
+  --padding: 12px;
+  --inner_padding: 12px;
+  --inner_half_padding: 6px;
+
+  /* TEXT */
+  --text_size_regular: 12px;
+  --text_size_large: 14px;
+  --text_size_larger: 16px;
+  --title_size: 18px;
+
+}

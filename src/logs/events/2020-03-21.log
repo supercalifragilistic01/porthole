@@ -1,0 +1,7 @@
+time,package,object,details
+07:01:14.879420,__main__,	,Init..
+07:01:15.160475,__main__,	,Init..
+07:01:15.626303,__main__,	,Load hosts..
+07:01:15.627120,__main__,	,Found 2 host files.
+07:01:15.750949,__main__,	,Load sites..
+07:01:15.751443,__main__,	,Found 1 site files.

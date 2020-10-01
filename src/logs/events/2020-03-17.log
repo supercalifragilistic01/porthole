@@ -1,0 +1,141 @@
+time,package,object,details
+06:15:02.811688,__main__,	,Init..
+06:15:02.950399,__main__,	,Init..
+06:15:04.211804,__main__,	,Load hosts..
+06:15:04.212694,__main__,	,Found 2 host files.
+06:15:04.251473,__main__,	,Load sites..
+06:15:04.251843,__main__,	,Found 1 site files.
+06:25:28.499702,__main__,	,Load hosts..
+06:25:28.500651,__main__,	,Found 2 host files.
+06:25:28.523022,__main__,	,Load sites..
+06:25:28.523396,__main__,	,Found 1 site files.
+06:32:01.882967,__main__,	,Load hosts..
+06:32:01.883599,__main__,	,Found 2 host files.
+06:32:01.905806,__main__,	,Load sites..
+06:32:01.906226,__main__,	,Found 1 site files.
+06:36:42.777948,__main__,	,Load hosts..
+06:36:42.778427,__main__,	,Found 2 host files.
+06:36:42.797171,__main__,	,Load sites..
+06:36:42.797417,__main__,	,Found 1 site files.
+06:37:49.619298,__main__,	,Load hosts..
+06:37:49.619960,__main__,	,Found 2 host files.
+06:37:49.640507,__main__,	,Load sites..
+06:37:49.640886,__main__,	,Found 1 site files.
+06:37:56.910950,__main__,	,Init..
+06:37:57.072099,__main__,	,Init..
+06:37:57.383123,__main__,	,Load hosts..
+06:37:57.384077,__main__,	,Found 2 host files.
+06:37:57.405121,__main__,	,Load sites..
+06:37:57.405628,__main__,	,Found 1 site files.
+06:38:21.204893,__main__,	,Load hosts..
+06:38:21.205374,__main__,	,Found 2 host files.
+06:38:21.226453,__main__,	,Load sites..
+06:38:21.226902,__main__,	,Found 1 site files.
+06:46:41.894686,__main__,	,Load hosts..
+06:46:41.895202,__main__,	,Found 2 host files.
+06:46:41.918570,__main__,	,Load sites..
+06:46:41.919077,__main__,	,Found 1 site files.
+06:49:40.379308,__main__,	,Load hosts..
+06:49:40.380101,__main__,	,Found 2 host files.
+06:49:40.403580,__main__,	,Load sites..
+06:49:40.403905,__main__,	,Found 1 site files.
+06:58:57.352310,__main__,	,Load hosts..
+06:58:57.352832,__main__,	,Found 2 host files.
+06:58:57.374150,__main__,	,Load sites..
+06:58:57.374527,__main__,	,Found 1 site files.
+07:01:37.768477,__main__,	,Load hosts..
+07:01:37.768984,__main__,	,Found 2 host files.
+07:01:37.792848,__main__,	,Load sites..
+07:01:37.793329,__main__,	,Found 1 site files.
+07:02:28.062551,__main__,	,Load hosts..
+07:02:28.063437,__main__,	,Found 2 host files.
+07:02:28.087995,__main__,	,Load sites..
+07:02:28.088381,__main__,	,Found 1 site files.
+07:02:48.402675,__main__,	,Load hosts..
+07:02:48.403231,__main__,	,Found 2 host files.
+07:02:48.425692,__main__,	,Load sites..
+07:02:48.425971,__main__,	,Found 1 site files.
+07:02:57.922012,__main__,	,Load hosts..
+07:02:57.922538,__main__,	,Found 2 host files.
+07:02:57.944306,__main__,	,Load sites..
+07:02:57.944882,__main__,	,Found 1 site files.
+20:05:58.445800,__main__,	,Init..
+20:05:58.589411,__main__,	,Init..
+20:05:59.555422,__main__,	,Load hosts..
+20:05:59.556278,__main__,	,Found 2 host files.
+20:05:59.664600,__main__,	,Load sites..
+20:05:59.665020,__main__,	,Found 1 site files.
+20:07:31.276051,__main__,	,Load hosts..
+20:07:31.276642,__main__,	,Found 2 host files.
+20:07:31.299358,__main__,	,Load sites..
+20:07:31.299898,__main__,	,Found 1 site files.
+20:13:06.053247,__main__,	,Load hosts..
+20:13:06.053778,__main__,	,Found 2 host files.
+20:13:06.078250,__main__,	,Load sites..
+20:13:06.078629,__main__,	,Found 1 site files.
+20:15:54.652410,__main__,	,Load hosts..
+20:15:54.653069,__main__,	,Found 2 host files.
+20:15:54.674692,__main__,	,Load sites..
+20:15:54.674988,__main__,	,Found 1 site files.
+20:16:12.207842,__main__,	,Load hosts..
+20:16:12.208395,__main__,	,Found 2 host files.
+20:16:12.228813,__main__,	,Load sites..
+20:16:12.229162,__main__,	,Found 1 site files.
+20:16:13.706076,__main__,	,Load hosts..
+20:16:13.706702,__main__,	,Found 2 host files.
+20:16:13.728169,__main__,	,Load sites..
+20:16:13.728575,__main__,	,Found 1 site files.
+20:16:18.795884,__main__,	,Init..
+20:16:19.010718,__main__,	,Init..
+20:16:19.302904,__main__,	,Load hosts..
+20:16:19.303760,__main__,	,Found 2 host files.
+20:16:19.356293,__main__,	,Load sites..
+20:16:19.356736,__main__,	,Found 1 site files.
+20:16:41.046870,__main__,	,Load hosts..
+20:16:41.047409,__main__,	,Found 2 host files.
+20:16:41.067415,__main__,	,Load sites..
+20:16:41.067750,__main__,	,Found 1 site files.
+20:17:59.028359,__main__,	,Load hosts..
+20:17:59.028823,__main__,	,Found 2 host files.
+20:17:59.049192,__main__,	,Load sites..
+20:17:59.049464,__main__,	,Found 1 site files.
+20:18:13.787971,__main__,	,Load hosts..
+20:18:13.788515,__main__,	,Found 2 host files.
+20:18:13.806873,__main__,	,Load sites..
+20:18:13.807254,__main__,	,Found 1 site files.
+20:18:15.684650,__main__,	,Load hosts..
+20:18:15.685119,__main__,	,Found 2 host files.
+20:18:15.709127,__main__,	,Load sites..
+20:18:15.709552,__main__,	,Found 1 site files.
+20:18:26.755389,__main__,	,Load hosts..
+20:18:26.756176,__main__,	,Found 2 host files.
+20:18:26.782206,__main__,	,Load sites..
+20:18:26.782589,__main__,	,Found 1 site files.
+20:18:28.347130,__main__,	,Load hosts..
+20:18:28.347486,__main__,	,Found 2 host files.
+20:18:28.370856,__main__,	,Load sites..
+20:18:28.371303,__main__,	,Found 1 site files.
+20:18:35.474695,__main__,	,Load hosts..
+20:18:35.475309,__main__,	,Found 2 host files.
+20:18:35.495125,__main__,	,Load sites..
+20:18:35.495533,__main__,	,Found 1 site files.
+20:27:21.317021,__main__,	,Load hosts..
+20:27:21.317710,__main__,	,Found 2 host files.
+20:27:21.339629,__main__,	,Load sites..
+20:27:21.339911,__main__,	,Found 1 site files.
+20:27:39.424356,__main__,	,Load hosts..
+20:27:39.425041,__main__,	,Found 2 host files.
+20:27:39.451363,__main__,	,Load sites..
+20:27:39.451911,__main__,	,Found 1 site files.
+20:27:46.930425,__main__,	,Load hosts..
+20:27:46.930923,__main__,	,Found 2 host files.
+20:27:46.952876,__main__,	,Load sites..
+20:27:46.953257,__main__,	,Found 1 site files.
+20:28:11.062564,__main__,	,Load hosts..
+20:28:11.063271,__main__,	,Found 2 host files.
+20:28:11.086450,__main__,	,Load sites..
+20:28:11.087025,__main__,	,Found 1 site files.
+20:29:19.129077,__main__,	,Load hosts..
+20:29:19.129574,__main__,	,Found 2 host files.
+20:29:19.154277,__main__,	,Load sites..
+20:29:19.154629,__main__,	,Found 1 site files.
